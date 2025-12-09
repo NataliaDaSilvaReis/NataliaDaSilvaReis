@@ -2,7 +2,7 @@
 
 ---
 
-Sou estudante de Sistemas de Informação e tenho me dedicado atualmente ao desenvolvimento backend.
+Sou estudante de Sistemas de Informação e estou atualmente no 4º período.
 
 Gosto de criar aplicações funcionais, organizadas e diretas.
 
@@ -15,11 +15,36 @@ Gosto de criar aplicações funcionais, organizadas e diretas.
 
 ---
 
-Utilizo C# na graduação como minha linguagem principal.
+Na graduação, a linguagem principal é o C#, então é com ela que desenvolvo meus projetos acadêmicos.
 
-Atualmente, também estou estudando JavaScript e começando a me aventurar em padrões de projeto...
+No estágio, utilizo Apps Script, JavaScript, HTML e Bootstrap em atividades de automação e desenvolvimento web.
 
 [`C#`](https://learn.microsoft.com/dotnet/csharp/)
 [`JavaScript`](https://developer.mozilla.org/docs/Web/JavaScript)
 [`HTML`](https://developer.mozilla.org/docs/Web/HTML)
 [`CSS`](https://developer.mozilla.org/docs/Web/CSS)
+<br>
+<br>
+
+A estrada até aqui...
+```
+┌───────────────┐           ┌───────────────────────────┐
+│   Internet    ├─────────→ │ Como a internet funciona  │
+└───────────────┘           └───────────────────────────┘
+                │
+                │           ┌───────────┐
+                ├─────────→ │   HTTP    │
+                │           └───────────┘
+                │
+                │           ┌─────────────────┐
+                ├─────────→ │ Nome de domínio │
+                │           └─────────────────┘
+                │
+                │           ┌──────────────┐
+                ├─────────→ │ Hospedagem   │
+                │           └──────────────┘
+                │
+                │           ┌───────────┐
+                └─────────→ │    DNS    │
+                            └───────────┘
+```
