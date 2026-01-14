@@ -22,6 +22,5 @@ No estágio, utilizo Apps Script, JavaScript, HTML e Bootstrap em atividades de 
 [`C#`](https://learn.microsoft.com/dotnet/csharp/)
 [`JavaScript`](https://developer.mozilla.org/docs/Web/JavaScript)
 [`HTML`](https://developer.mozilla.org/docs/Web/HTML)
-[`CSS`](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 <br>
