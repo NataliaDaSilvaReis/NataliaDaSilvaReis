@@ -25,26 +25,3 @@ No estágio, utilizo Apps Script, JavaScript, HTML e Bootstrap em atividades de 
 [`CSS`](https://developer.mozilla.org/docs/Web/CSS)
 <br>
 <br>
-
-A estrada até aqui...
-```
-┌───────────────┐           ┌───────────────────────────┐
-│   Internet    ├─────────→ │ Como a internet funciona  │            • PUC Minas – Desenvolvimento de Interfaces WEB                                                                    
-└───────────────┘           └───────────────────────────┘            • Curso em Vídeo – Curso HTML5 e CSS3 – Módulo 1
-                │                                                    • Documentação da Mozilla
-                │           ┌───────────┐
-                ├─────────→ │   HTTP    │
-                │           └───────────┘
-                │
-                │           ┌─────────────────┐
-                ├─────────→ │ Nome de domínio │
-                │           └─────────────────┘
-                │
-                │           ┌──────────────┐
-                ├─────────→ │ Hospedagem   │
-                │           └──────────────┘
-                │
-                │           ┌───────────┐
-                └─────────→ │    DNS    │
-                            └───────────┘
-```
